@@ -113,7 +113,7 @@ header {
 
 .profile__img-container {
   border-radius: 12px;
-  background-image: linear-gradient(#fff1, #0009), url("/chiche.png");
+  background-image: linear-gradient(#fff1, #0009), url("chiche.png");
   background-position: center;
   background-size: auto;
   display: grid;
@@ -240,7 +240,7 @@ span {
 
 .portfolio__proyect {
   border-radius: 8px;
-  background-image: linear-gradient(#fff1, #0009), url("/chiche.png");
+  background-image: linear-gradient(#fff1, #0009), url("chiche.png");
   background-position: center;
   background-size: cover;
   display: grid;
